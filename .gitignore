@@ -7,3 +7,9 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+
+# Emacs
+*~
+
+# IEX repl helpers
+.iex.exs
